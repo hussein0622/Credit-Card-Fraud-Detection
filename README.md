@@ -6,7 +6,7 @@ The central challenge is **extreme class imbalance**: fraud accounts for only **
 
 ## Dataset
 
-> **Note:** The dataset file (`creditcard.csv`) exceeds 100 MB and cannot be uploaded to GitHub. Download it from [Kaggle — Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) and place it in the `Classic Datasets/` folder before running the notebook.
+> **Note:** The dataset file (`creditcard.csv`) exceeds 50 MB and cannot be uploaded to GitHub. Download it from [Kaggle — Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) and place it in the `Classic Datasets/` folder before running the notebook.
 
 | Property | Value |
 |---|---|
